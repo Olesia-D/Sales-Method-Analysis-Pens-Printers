@@ -124,6 +124,8 @@ GitHub (for version control)
 ├──          Revenue_by_sales_method.png
             
 ├──          Revenue_by_week_and_method.png
+
+├── Presentatation Product Sales.pdf      # Overview presentation for Head of Analytic
             
 ├── README.md                # Project overview
 
