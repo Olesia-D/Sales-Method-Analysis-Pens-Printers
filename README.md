@@ -71,9 +71,12 @@ Revenue Over Time by Method
 
 ### Key Insight: Sales Method Efficiency
 Sales Method	  Customers  	Total Revenue	  ARPC (Avg Revenue/Customer)
-Email	           7,466      $723,418	      $96.9
-Phone Call	     4,962	    $244,566	      $49.29
-Email + Call	   2,572	    $441,040	      $171.48
+
+Email	              7,466                 $723,418	              $96.9
+
+Phone Call	              4,962	            $244,566	              $49.29
+
+Email + Call	  2,572	            $441,040	              $171.48
 
 Email was the most scalable but less profitable per customer.
 
