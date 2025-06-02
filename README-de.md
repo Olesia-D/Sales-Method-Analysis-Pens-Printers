@@ -1,4 +1,3 @@
-
 # **Vertriebsstrategie-Analyse für "Pens and Printers"**  
 Analyse von 3 neuen verschiedenen Vertriebsmethoden  
 im Online-Shop für Bürobedarf  
